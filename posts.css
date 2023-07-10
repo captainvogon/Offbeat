@@ -1,0 +1,58 @@
+.content p {
+    font-family: Jetbrains Mono;
+    letter-spacing: 0;
+    font-size: larger;
+    line-height: 1.8rem;
+    padding-bottom: 0.5rem;
+}
+
+.content {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 8rem;
+}
+
+.content a {
+    text-decoration: underline;
+    border-spacing: 0.1rem;
+}
+
+.content p:last-child {
+    margin-top: 3rem;
+}
+
+h1 {
+    margin-bottom: 1rem;
+    margin-top: 5rem;
+}
+
+.stars {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.headerimg {
+    width: 100%;
+    display: block;
+    margin: auto;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.postimg {
+    width: 100%;
+    display: block;
+    margin: auto;
+    padding-bottom: 1.5rem;
+    padding-top: 1rem;
+}
+
+.home p {
+    font-family: Blackout;
+    letter-spacing: 0.25rem;
+    text-align: end;
+}
+
+.home {
+    text-decoration: none !important;
+}
